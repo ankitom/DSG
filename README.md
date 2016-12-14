@@ -14,4 +14,4 @@ Let us all become DATA SCIENCE GODS :)
 
 Evaluating Classifiers
 
-[DSG/Efficient Parameter Tuning.ipynb](docs/readme)
+[DSG/Efficient Parameter Tuning.ipynb](ankitom/DSG)

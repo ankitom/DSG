@@ -12,6 +12,6 @@ Let us all become DATA SCIENCE GODS :)
 
 
 
-[Evaluating Classifiers](ankitom/DSG/Evaluating Classifiers .ipynb)
+[Evaluating Classifiers](https://github.com/ankitom/DSG/blob/master/Evaluating%20Classifiers%20.ipynb)
 
 

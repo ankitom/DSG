@@ -12,6 +12,6 @@ Let us all become DATA SCIENCE GODS :)
 
 
 
-Evaluating Classifiers
+[Evaluating Classifiers](ankitom/DSG/Evaluating Classifiers .ipynb)
 
-[DSG/Efficient Parameter Tuning.ipynb](ankitom/DSG)
+

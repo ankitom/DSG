@@ -18,6 +18,7 @@ Let us all become DATA SCIENCE GODS :innocent:
 
 [Comparing Models](https://github.com/ankitom/DSG/blob/master/Comparing%20models.ipynb)
 
-***
+[Getting Recommendations](https://github.com/ankitom/DSG/blob/master/Recommendations.ipynb)
 
-### New notebook coming tomorrow :smile:
+***
+### New notebook coming tomorrow :smile: कल? पर कल तो कभी आता ही नहीं? :smile: अब आएगा मित्रों :metal:

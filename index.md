@@ -1,4 +1,4 @@
-This repository contains my stuff related to Data Science. DSG = Data Science G(I leave you to guess what G means :smile:)
+This repository contains my stuff related to Data Science. DSG = Data Science G(I leave G to your imagination :smile:)
 
 Stuff means ipython notebooks explaining concepts, having codes for various algorithms, and data science problems.
 
@@ -20,5 +20,21 @@ Let us all become DATA SCIENCE GODS :innocent:
 
 [Getting Recommendations](https://github.com/ankitom/DSG/blob/master/Recommendations.ipynb)
 
+[Spam Classificatioin](https://github.com/ankitom/DSG/blob/master/Spam%20classification.ipynb)
+
+[Car Quality prediction using Trees](https://github.com/ankitom/DSG/blob/master/Decision%20trees%20-%20Car%20Quality%20prediction.ipynb)
+
+[Breast cancer prediction using SVMs](https://github.com/ankitom/DSG/blob/master/SVMs%20Breast%20Cancer%20detection.ipynb)
+
+[KNN and Logistic regression model building](https://github.com/ankitom/DSG/blob/master/Model%20building%20KNN%20and%20Logreg.ipynb)
+
+[K means clustering on titanic dataset](https://github.com/ankitom/DSG/blob/master/K%20means%20Clustering.ipynb)
+
+[Applications of K fold Cross Validation](https://github.com/ankitom/DSG/blob/master/Cross%20validation%20applications.ipynb)
+
+[Parameter tuning using GridsearchCV and RandomsearchCV](https://github.com/ankitom/DSG/blob/master/Efficient%20Parameter%20Tuning.ipynb)
+
+
+
 ***
-### New notebook coming tomorrow :smile: कल? पर कल तो कभी आता ही नहीं? :smile: अब आएगा मित्रों :metal:
+

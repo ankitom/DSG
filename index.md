@@ -1,5 +1,4 @@
-Hello there,
-                                    #WELCOME TO DATA SCIENCE JOURNEY 
+                                          WELCOME TO DATA SCIENCE JOURNEY 
 
 I am passionate about Data Science and hope to become a DSG someday. Below are my mini projects in Machine Learning. 
 

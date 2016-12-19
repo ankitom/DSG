@@ -2,7 +2,7 @@ title: Data Science Journey
 description: Journey to become a DSG
 google_analytics: UA-40543298-4
 show_downloads: false
-theme: jekyll-theme-slate
+theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions

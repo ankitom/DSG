@@ -1,9 +1,11 @@
-                                          WELCOME TO DATA SCIENCE JOURNEY 
+                      WELCOME TO DATA SCIENCE JOURNEY 
 
 I am fascinated with Data Science and am passionate to solve real world problems using Data Science.
 Below are my mini projects in Machine Learning. 
 
-                      I hope you find this useful in your data science journey. All the best !!!
+                      I hope you find this useful in your data science journey. 
+                      
+                      All the best !!!
 
                       Let us all become DATA SCIENCE GODS 
 

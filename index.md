@@ -1,12 +1,11 @@
-This repository contains my stuff related to Data Science. DSG = Data Science G(I leave G to your imagination :smile:)
+Hello there,
+                                    #WELCOME TO DATA SCIENCE JOURNEY 
 
-Stuff means ipython notebooks explaining concepts, having codes for various algorithms, and data science problems.
+I am passionate about Data Science and hope to become a DSG someday. Below are my mini projects in Machine Learning. 
 
-Also note that there might be errors so read at your risk :smile: and suggest me corrections.
+                      I hope you find this useful in your data science journey. All the best !!!
 
-I hope you find this useful in your data science journey. All the best !!!
-
-Let us all become DATA SCIENCE GODS :innocent:
+                                  Let us all become DATA SCIENCE GODS :innocent:
 
 
 ***

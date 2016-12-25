@@ -38,4 +38,4 @@ Below are my mini projects in Machine Learning.
 
 
 ***
-
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="ankit740"><a class="LI-simple-link" href='https://in.linkedin.com/in/ankit740?trk=profile-badge'>Ankit Chouksey</a></div>

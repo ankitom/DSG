@@ -15,7 +15,7 @@ Below are my mini projects in Machine Learning.
 
 ## Ipython Notebooks
 
-[Saying Hello to "Hello World" of Data Science](https://github.com/ankitom/DSG/blob/master/Iris%20Specie%20Classification.ipynb)
+[Saying Hello to "Hello World" of Data Science](https://www.linkedin.com/pulse/saying-hello-world-data-science-ankit-chouksey?trk=prof-post)
 
 [Evaluating Classifiers](https://github.com/ankitom/DSG/blob/master/Evaluating%20Classifiers%20.ipynb)
 

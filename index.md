@@ -23,7 +23,7 @@ Below are my mini projects in Machine Learning.
 
 [Getting Recommendations](https://github.com/ankitom/DSG/blob/master/Recommendations.ipynb)
 
-[Spam Classificatioin](https://github.com/ankitom/DSG/blob/master/Spam%20classification.ipynb)
+[Spam Classification](https://github.com/ankitom/DSG/blob/master/Spam%20classification.ipynb)
 
 [Car Quality prediction using Trees](https://github.com/ankitom/DSG/blob/master/Decision%20trees%20-%20Car%20Quality%20prediction.ipynb)
 
